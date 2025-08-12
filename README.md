@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/fotoGitHubReadME.png" alt="Banner Lucas" />
+</p>
+
 # 👋 ¡Hola! Soy Lucas  
 ### *Desarrollador Full Stack Jr. | Curioso. Perseverante. Amante del código limpio.*
 

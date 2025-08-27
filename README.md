@@ -35,6 +35,14 @@
 
 ---
 
+## 📊 Mis estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucithub&layout=compact&langs_count=8&theme=radical" alt="Top Lenguajes" />
+</p>
+
+---
+
 ## 🛠️ Proyectos Destacados  
 ### 📌 [SPA]: *Dot Dager Page*  
 SPA creada con HTML, CSS y JS, utilizando Bootstrap 5, para el concurso del Youtuber "Dot Dager" ->
